@@ -1,0 +1,13 @@
+USE db_employees;
+
+-- list all the employees whose salary is greater than average salary
+
+-- list all the employees who belong to Sales department
+
+-- Employees who joined after the earliest Engineering joining date.
+
+-- Departments having at least one employee.
+
+-- Employees in departments located in Bangalore or Mumbai.
+
+-- Employees earning more than their manager.
